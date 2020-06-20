@@ -1,22 +1,22 @@
-# News
+﻿# Download Style2Paints V4.5
 
-The server of Style2paintsV4 (s2p.moe) is currently shut down because we do not have enough money. The GPU server (1000USD/MONTH) is costly. You can donate us if you like our previous service.
+You can directly download the software (windows x64) at:
 
-[patreon](https://www.patreon.com/style2paints)
-[支付宝](https://s2p.moe/img/zfb.jpg)
-[微信支付](https://s2p.moe/img/wx.jpg)
+Google Drive:
 
-We will release all source codes of Style2paintsV4, including the server code (Python), the client code (Cocos2D-JS), the pretrained model (Keras) and some possible helpers (Chrome plugin) after some technique report is released.
+    https://drive.google.com/open?id=1gmg2wwNIp4qMzxqP12SbcmVAHsLt1iRE
 
-Currently, the only publicly available version is style2paintsV3, which can be found [here](https://github.com/lllyasviel/style2paints/tree/master/V3). However, this page is only designed for the programmer. If you are an artist and want to colorize line drawings, we recommend you to use the alternative tool PaintsChainer, which can be found [here](https://paintschainer.preferred.tech/).
+Baidu Drive (百度网盘):
 
-Though the possibility is minimal, the online APP of style2paints V4 may come back if we manage to obtain enough donation.
+    https://pan.baidu.com/s/15xCm1jRVeHipHkiB3n1vzA
 
-We are currently actively developing Style2PaintsV5, which is the top secret of our team. Style2PaintsV5 is not only capable of coloring, but more importantly, it may help you to draw.
+QQ Group (QQ群文件):
 
-We are actively developing the offline version of Style2PaintsV4 (and MangaCraft), you will be able to run our APP on your host when our online server is not accessible. Maybe the offline version will be released together with Style2PaintsV5. Furthermore, Style2PaintsV5 is an offline APP.
+    184467946
 
-Thank you all for your support!
+You do **NOT** need to install any complex things like CUDA and python. You can directly download it and then double click it, as if you were playing a normal video game.
+
+Never hesitate to let me know if you have any suggestions or ideas. You may directly send emails to my private address [lmzhang9@stu.suda.edu.cn].
 
 # Welcome to style2paints V4!
 
